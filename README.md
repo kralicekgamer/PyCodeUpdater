@@ -8,7 +8,7 @@
 - Download lasted version of updater
 - Create file on github, which will be called "version"
 - Type in this file your lasted version (1.0.0)
-- Create relese with tag `v1.0.0` or your. ON START MUST BE `v`
+- Create relese with tag `v1.0.0` or yours. ON START MUST BE `v`
 
 
 
@@ -20,8 +20,8 @@ import updater
 
 updater.cmd()
 ```
-- This is run updater who install newest version  of your code
-- Next unpack it and run `update.py`
+- This is run updater whitch install newest version of your code
+- Next unpack it and run it `update.py`
 - File `update.py` and `config.ini` it can be modified
 
 - Help: `kralicekgamer@gmail.com` or my instagram @def_kralicekgamer
