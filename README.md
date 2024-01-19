@@ -6,8 +6,10 @@
 
 ## Install
 - Create file on github, which will be called "version"
+- Create relese with tag `v1.0.0` or your. ON START MUST BE `v`
 - Type in this file your lasted version (1.0.0)
 - Download lasted relese from github
+
 
 - `config.ini` is file to configurate your script
 - Instruction is in this file
