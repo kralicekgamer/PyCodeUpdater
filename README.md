@@ -5,10 +5,11 @@
 - Work with python and github
 
 ## Install
+- Download lasted version of updater
 - Create file on github, which will be called "version"
-- Create relese with tag `v1.0.0` or your. ON START MUST BE `v`
 - Type in this file your lasted version (1.0.0)
-- Download lasted relese from github
+- Create relese with tag `v1.0.0` or your. ON START MUST BE `v`
+
 
 
 - `config.ini` is file to configurate your script
