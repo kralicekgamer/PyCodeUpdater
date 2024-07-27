@@ -19,9 +19,9 @@
 - Download lasted relese or download `updater.py` and `config.ini`
 - Add this to you program
 ```
-# import updater
-from updater import Start
+from updater import Updater
 
-# call class Start
-Start()
+updater = Updater()
+updater.check_for_update()
+
 ```
